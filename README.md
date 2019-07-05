@@ -1,4 +1,4 @@
-SMTData
+MT Data
 =======
 
 Datasets for statistical machine translation
